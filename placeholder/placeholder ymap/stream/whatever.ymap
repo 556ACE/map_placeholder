@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-4122.859863" y="-3029.738281" z="-414.605759"/>
+	<streamingExtentsMax x="-3314.969238" y="-2224.092529" z="386.210862"/>
+	<entitiesExtentsMin x="-3722.859863" y="-2629.738281" z="-14.605759"/>
+	<entitiesExtentsMax x="-3714.969238" y="-2624.092529" z="-13.789138"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_tablehob1x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-3714.969238" y="-2629.738281" z="-14.540760"/>
+			<rotation w="0.017655" x="0.045026" y="-0.012769" z="-0.998748"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>s_whiskeyempty01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-3715.206787" y="-2629.413086" z="-13.789138"/>
+			<rotation w="0.014630" x="-0.041319" y="0.009869" z="0.998990"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_door10x</archetypeName>
+			<flags value="1572865"/>
+			<position x="-3722.859863" y="-2624.092529" z="-14.605759"/>
+			<rotation w="0.865965" x="0.000000" y="-0.000000" z="-0.500105"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

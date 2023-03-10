@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="chaw"/>
+	<DeletedObject Hash="-728725588" Position_x="-3705.9929199219" Position_y="-2635.9206542969" Position_z="-14.776136398315"/>
+	<DeletedObject Hash="-1821565422" Position_x="-3707.0034179688" Position_y="-2635.0788574219" Position_z="-14.782657623291"/>
+	<DeletedObject Hash="-1782470881" Position_x="-3706.4699707031" Position_y="-2634.3291015625" Position_z="-14.752640724182"/>
+	<DeletedObject Hash="-1821565422" Position_x="-3705.5830078125" Position_y="-2634.3771972656" Position_z="-14.752640724182"/>
+	<Object Hash="-974361766" Position_x="-3700.5913085938" Position_y="-2588.3139648438" Position_z="-14.314880371094" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="-36.84916305542" Collision="true" Visible="true"/>
+	<Object Hash="-1122605314" Position_x="-3715.7548828125" Position_y="-2608.6481933594" Position_z="-14.821724891663" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="15.30853843689" Collision="true" Visible="true"/>
+</Map>
